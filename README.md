@@ -44,6 +44,8 @@ Each phase has three parts: what to **learn**, what to **build**, and a **checkp
 
 ## Phase 1: Claude basics and the API (Weeks 1–2)
 
+📂 Lessons: [phase-1-claude-basics-and-api](phase-1-claude-basics-and-api/)
+
 ### Learn
 - [ ] The model family (Opus, Sonnet, Haiku) and the tradeoff between quality, speed and cost. Learn how to pick a model for a given use case.
 - [ ] The Messages API: roles, system prompts, `max_tokens`, `temperature`, stop reasons and streaming.
